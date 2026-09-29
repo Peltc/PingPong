@@ -1,0 +1,11 @@
+--- INFO ---
+Development Time: (I forgot)
+Open Source Code!
+-- Comment --
+It's really good to code this, I hope I can discover more stuff from this!
+--- learned ---
+- I learned saving file data and loading it while the program is running (OS easy lvl 1)
+- I learn Projectile motion with Normalized math and some pyhtagoreom math.
+- I don't know some of it so I have to learn more stuff from it.
+- Learned Percentage is around 65% and i'm being honest.
+
