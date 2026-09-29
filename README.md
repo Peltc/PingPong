@@ -1,6 +1,2 @@
-# pingpong
-pingpongmyballs created on C
-
-just read it 
-
-i use glfw + glad + C
+Finished Program!
+Just A simple Test program created in C and OpengGL
